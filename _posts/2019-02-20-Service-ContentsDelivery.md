@@ -63,7 +63,7 @@ AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 
 솔트웨어의 Amazon CloudFront 서비스에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
 
 고객 여러분의 의견은 저희에게 소중한 자산입니다.
-
+2
 #### AWS CloudFront 서비스 관련 문의 : 
 
 >최성언 과장 / aws.sales@saltware.co.kr / 02-2025-4920
